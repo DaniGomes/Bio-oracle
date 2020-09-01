@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri May 08 14:29:19 BRT 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Bio-Oracle.jar
+manifest.mergeall=true
+manifest.mainclass=controller.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
